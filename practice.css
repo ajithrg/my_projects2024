@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Beginner:wght@600&family=Nova+Flat&display=swap');
+
+
+
+body{
+  background-image: linear-gradient(to top,rgb(58, 151, 177),lightgreen);
+  background-attachment: fixed;
+}
+h1{
+  color: rgb(43, 70, 226);
+  outline-color: rgb(255, 250, 240);
+  outline-width: 3px;
+  outline-style: double;
+}
+img{
+ border-radius: 70%;
+ padding: 20px;
+ position: relative;
+ display: flex;
+ top: 5rem;
+ box-shadow: 1px 2px 3px 3px  rgb(129, 167, 129);
+ box-sizing: unset;
+ filter: drop-shadow(10px 7px 6px  white);
+ padding: 3px;
+}
+h1{
+  border: 4px solid green;
+  border-width:5px ;
+  border-style: outset;
+  text-align: center;
+  text-orientation: ;
+  font-size: 80px;
+  
+  background-attachment: fixed;
+  border-radius: 70px;
+  padding: 6px;
+  background-size: 30px;
+  background-position-x: center;
+  border-color: rgb(205, 255, 230);
+  border-spacing: 3px;
+}
+i{
+  color: brown;
+  background-color: aliceblue;
+  padding: 4px;
+  border-radius: 40%;
+  font-size: 30px;
+  
+}
+.social{
+  cursor: pointer;
+  text-align: center;
+ left: 30%;
+ font-family: 'Edu QLD Beginner', cursive;
+ font-family: 'Nova Flat', system-ui;
+  color: rgb(255, 255, 255);
+  font: bolder;
+  font-size: 20px;
+
+}
+.fa-whatsapp{
+  color: white;
+  background-color: rgb(0, 177, 118);
+  border-radius: 50%;
+  padding: 20px;
+  box-shadow: 2px 2px 3px 3px  rgb(255, 255, 255);
+  box-sizing: border-box;
+  
+  transition: all 0.5s linear;
+ 
+}
+fa-whatsapp:hover{
+  color: blue;
+}
+
+.fa-envelope{
+  color: white;
+  background-color: rgb(0, 71, 177);
+  border-radius: 50%;
+  padding: 20px;
+  box-shadow: 2px 2px 3px 3px  rgb(255, 255, 255);
+  box-sizing: border-box;
+  border-color: greenyellow;
+
+}
+.fa-instagram{
+  color: white;
+  background-color: rgb(177, 0, 94);
+  border-radius: 50%;
+  padding: 20px;
+  box-shadow: 2px 2px 3px 3px  rgb(255, 255, 255);
+  box-sizing: border-box;
+  border-color: greenyellow;
+
+}
+.fa-telegram{
+  color: white;
+  background-color: rgb(28, 157, 244);
+  border-radius: 50%;
+  padding: 20px;
+  box-shadow: 2px 2px 3px 3px  rgb(255, 255, 255);
+  box-sizing: border-box;
+  border-color: greenyellow;
+}
+.fa-facebook{
+  color: white;
+  background-color: rgb(24, 46, 186);
+  border-radius: 50%;
+  padding: 20px;
+  box-shadow: 2px 2px 3px 3px  rgb(255, 255, 255);
+  box-sizing: border-box;
+  border-color: greenyellow;
+
+}
+.fa-x-twitter{
+  color: white;
+  background-color: rgb(31, 31, 32);
+  border-radius: 50%;
+  padding: 20px;
+  box-shadow: 2px 2px 3px 3px  rgb(255, 255, 255);
+  box-sizing: border-box;
+  border-color: greenyellow;
+}
+.fa-linkedin
+{
+  color: white;
+  background-color: rgb(6, 101, 190);
+  border-radius: 50%;
+  padding: 20px;
+  box-shadow: 2px 2px 3px 3px  rgb(255, 255, 255);
+  box-sizing: border-box;
+  border-color: greenyellow;
+}
+.fa-github{
+  color: white;
+  background-color: rgb(0, 3, 5);
+  border-radius: 50%;
+  padding: 20px;
+  box-shadow: 2px 2px 3px 3px  rgb(255, 255, 255);
+  box-sizing: border-box;
+  border-color: greenyellow;
+}
